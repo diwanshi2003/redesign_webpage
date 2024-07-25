@@ -21,12 +21,11 @@ Overall, the website is designed to be visually appealing and user-friendly, pro
 
 
 
-
-![image](https://github.com/user-attachments/assets/9c5d393f-7fd3-435d-8afa-609708ae7b82)
-
 ![image](https://github.com/user-attachments/assets/64bb992a-9a41-4f5e-8ed3-5da135025f6a)
 
 ![image](https://github.com/user-attachments/assets/19c78852-0fc8-49f0-9d89-3fd0b4b301ee)
+
+![image](https://github.com/user-attachments/assets/9c5d393f-7fd3-435d-8afa-609708ae7b82)
 
 ![image](https://github.com/user-attachments/assets/93775824-9bb1-4cef-9db9-047b26a2a57a)
 
